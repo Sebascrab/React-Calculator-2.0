@@ -50,6 +50,8 @@
   Email: alexanders.tischner@outlook.com 
 
   ![Image of Application](src/assets/images/React-Calc-2.0.png)
+  
+  Deployed: https://react-calc-2-st.herokuapp.com/
 
   
 
